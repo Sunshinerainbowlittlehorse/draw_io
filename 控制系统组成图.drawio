@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="punqzOk7Rb6HKLbjtJMB">
-    <mxGraphModel dx="1201" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="686" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,18 @@
         </mxCell>
         <mxCell id="ncy9JLE9IN49m0afxCaN-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;手动/自动&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="515" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ-BjZ7W26dJklhGHsyG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;GPIO&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;中断控制&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="335" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ-BjZ7W26dJklhGHsyG-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;ADC采样&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="285" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ-BjZ7W26dJklhGHsyG-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;定时器PWM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="430" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ-BjZ7W26dJklhGHsyG-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;GPIO&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;中断控制&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="475" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
