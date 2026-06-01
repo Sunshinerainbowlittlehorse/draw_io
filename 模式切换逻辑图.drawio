@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="XRAMtOMKaNyWmjw6xhsY">
-    <mxGraphModel dx="1201" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,36 +22,20 @@
         <mxCell id="Y5s0_oE-LBkO0NYd99Zf-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;系统初始化&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;默认手动模式&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="202" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-9" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2ZJ4s8aRCA1JSKDSQwv9-8" value="">
+        <mxCell id="tFXx_Wp8LNbMdPT5bq-l-2" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2ZJ4s8aRCA1JSKDSQwv9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-15" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2ZJ4s8aRCA1JSKDSQwv9-14">
+        <mxCell id="tFXx_Wp8LNbMdPT5bq-l-3" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2ZJ4s8aRCA1JSKDSQwv9-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;是否切换模式?&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="98" x="193" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-11" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2ZJ4s8aRCA1JSKDSQwv9-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;是: 按键/蓝牙&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="80" x="300" y="157.5" as="geometry" />
         </mxCell>
         <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-18" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="2ZJ4s8aRCA1JSKDSQwv9-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;切换自动/手动模式&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="110" x="390" y="157.5" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-16" edge="1" parent="1" source="2ZJ4s8aRCA1JSKDSQwv9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="2ZJ4s8aRCA1JSKDSQwv9-17" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="272" y="237.5" as="sourcePoint" />
-            <mxPoint x="388.78999999999996" y="214.93999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;否&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="20" x="232" y="205" as="geometry" />
         </mxCell>
         <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;当前模式判定&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="291" y="200" as="geometry" />
@@ -160,6 +144,12 @@
         </mxCell>
         <mxCell id="2ZJ4s8aRCA1JSKDSQwv9-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="311" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="tFXx_Wp8LNbMdPT5bq-l-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;是&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="19" x="325" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tFXx_Wp8LNbMdPT5bq-l-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;否&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="245.5" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
